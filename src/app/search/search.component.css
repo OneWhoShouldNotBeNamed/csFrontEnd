@@ -1,0 +1,84 @@
+.gradient-div {
+  width: 100%; /* Set the width of the div */
+  height: 10vh; /* Set the height of the div */
+  background: linear-gradient(
+    to left,
+    #a9debe,
+    #77b891
+  ); /* Define the gradient background */
+  text-align: center; /* Center-align the content horizontally */
+  display: flex; /* Use flexbox to center-align vertically */
+  justify-content: center; /* Center-align vertically */
+  align-items: center; /* Center-align vertically */
+}
+
+/* Define styles for the span element */
+.centered-span {
+  color: #184b2c; /* Set the text color */
+  font-size: 24px; /* Set the font size */
+  font-weight: bold; /* Set the font weight */
+}
+
+.body-gradient {
+  height: 90vh;
+  background: linear-gradient(180deg, #ecf0ea 0%, #d6ecd4 100%);
+  /* }
+body { */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  margin: 0;
+}
+
+/* Style the container div (rectangle) */
+.container {
+  width: 300px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the label text */
+.label {
+  font-weight: bold;
+  color: #2c8550;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 72% */
+}
+
+/* Style the rounded button */
+.button {
+  display: inline-block;
+  padding: 10px 20px ;
+  color: white;
+  font-size: 16px;
+  border-radius: 50px;
+  background-color: #77b891;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.text-box,
+.text-box * {
+  box-sizing: border-box;
+}
+
+.text-box {
+  background: linear-gradient(
+    180deg,
+    rgba(252, 248, 240, 1) 0%,
+    rgba(252, 248, 240, 0.4) 100%
+  );
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 5px 5px 50px 0px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(44, 133, 80, 0.50);
+
+}
