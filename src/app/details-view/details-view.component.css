@@ -1,0 +1,47 @@
+.gradient-class {
+  background: linear-gradient(180deg, #a9debe 0%, #77b891 100%);
+}
+.section {
+  min-height: 100vh;
+}
+.main-section-gradient {
+  background: linear-gradient(180deg, #ecf0ea 0%, #d6ecd4 100%);
+}
+/* Set custom heights for section 1A and 1B */
+.college-name-univer,
+.college-name-univer * {
+  box-sizing: border-box;
+}
+.college-name-univer {
+  color: #184b2c;
+  text-align: left;
+  font: 700 40px/18px "Poppins", sans-serif;
+  position: relative;
+  width: 150px;
+  height: 60px;
+}
+
+/* Custom CSS for menu highlight */
+.nav-item.active {
+  background-color: #007bff; /* Highlight color for selected menu item */
+}
+.nav-link.active {
+  color: #fff; /* Text color for selected menu item */
+}
+
+.rectangle-8,
+.rectangle-8 * {
+  box-sizing: border-box;
+}
+.rectangle-8 {
+  background: #184b2c;
+  opacity: 0.30000001192092896;
+  width: 184px;
+  height: 1px;
+  position: relative;
+}
+.textMain {
+  color: #184b2c;
+  text-align: left;
+  font: 400 25px/18px "Poppins", sans-serif;
+}
