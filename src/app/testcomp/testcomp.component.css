@@ -1,1 +1,200 @@
-.frame,.frame .div{background-color:#fff}.frame .college-name-univer,.frame .college-name-univer-2,.frame .college-name-univer-3,.frame .text-wrapper{font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame{display:flex;flex-direction:row;justify-content:center;width:100%}.frame .div{overflow:hidden;background:linear-gradient(180deg,#ecf0ea 0,rgb(214.17,235.88,212.29) 100%);width:1440px;height:1080px;position:relative}.frame .overlap{position:absolute;width:625px;height:1080px;top:0;left:0}.frame .rectangle{position:absolute;width:275px;height:1080px;top:0;left:350px;background:linear-gradient(180deg,rgb(169.32,222.06,190.42) 0,rgb(118.71,183.81,144.75) 100%)}.frame .img{position:absolute;width:350px;height:1080px;top:0;left:0}.frame .rectangle-2{position:absolute;width:310px;height:63px;top:276px;left:40px;border-radius:10px;background:linear-gradient(180deg,#fff 0,rgba(255,255,255,0) 100%);opacity:.3}.frame .rectangle-3,.frame .rectangle-4{width:237px;height:50px;background-color:#fff8eb;border-radius:10px;opacity:.4}.frame .rectangle-3{position:absolute;top:350px;left:365px}.frame .college-name-univer,.frame .college-name-univer-2,.frame .college-name-univer-3,.frame .college-name-univer-4,.frame .text-wrapper{left:60px;color:#174b2c;font-size:25px}.frame .college-name-univer{top:297px;position:absolute}.frame .text-wrapper{top:365px;position:absolute}.frame .college-name-univer-2{top:433px;position:absolute}.frame .college-name-univer-3{top:501px;position:absolute}.frame .college-name-univer-4{top:569px;position:absolute;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .college-name-univer-5,.frame .college-name-univer-6{left:380px;color:#174b2c;font-size:16px;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap;position:absolute}.frame .college-name-univer-5{top:297px}.frame .college-name-univer-6{top:365px}.frame .rectangle-4{position:absolute;top:960px;left:60px}.frame .college-name-univer-7{top:975px;left:144px;color:#174b2c;font-size:16px;position:absolute;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .college-name-univer-10,.frame .college-name-univer-11,.frame .college-name-univer-12,.frame .college-name-univer-8,.frame .college-name-univer-9{left:380px;font-size:16px;letter-spacing:0;line-height:18px;position:absolute;color:#174b2c;font-family:Poppins-Regular,Helvetica;font-weight:400;white-space:nowrap}.frame .college-name-univer-8{top:433px}.frame .college-name-univer-9{top:501px}.frame .college-name-univer-10{top:569px}.frame .college-name-univer-11{top:637px}.frame .college-name-univer-12{top:705px}.frame .college-name-univer-13{top:229px;left:60px;opacity:.5;color:#174b2c;font-size:20px;position:absolute;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .rectangle-5{position:absolute;width:1px;height:780px;top:230px;left:350px;background-color:#cafadd}.frame .rectangle-6,.frame .rectangle-7{height:1px;background-color:#174b2c;position:absolute}.frame .rectangle-6{width:184px;top:245px;left:123px;opacity:.3}.frame .college-name-univer-14{top:230px;left:372px;opacity:.5;color:#174b2c;font-size:16px;position:absolute;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .span,.frame .text{font-family:Poppins-Bold,Helvetica;font-weight:700;color:#174b2c;font-size:40px;letter-spacing:0;line-height:18px}.frame .rectangle-7{width:102px;top:245px;left:462px;opacity:.3}.frame .flexcontainer{gap:20px;width:150px;height:60px;top:69px;left:60px;display:flex;flex-direction:column;align-items:flex-start;position:absolute}.frame .text{position:relative;align-self:stretch}.frame .span-wrapper,.frame .text-wrapper-2{color:#666;font-size:16px;line-height:22.5px;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0}.frame .group{position:absolute;width:330px;height:43px;top:79px;left:243px}.frame .rectangle-10,.frame .rectangle-8,.frame .rectangle-9{width:330px;height:3px;left:0;background:linear-gradient(180deg,#fff 0,rgba(255,255,255,0) 100%);opacity:.7;position:absolute}.frame .rectangle-8{top:20px}.frame .rectangle-9{top:0}.frame .rectangle-10{top:40px}.frame .overlap-2,.frame .overlap-3,.frame .overlap-group{border-radius:20px;box-shadow:10px 10px 50px #0000001a;background:linear-gradient(180deg,#fff 0,rgba(255,255,255,.58) 100%)}.frame .overlap-group{position:absolute;width:662px;height:434px;top:-259px;left:673px}.frame .flexcontainer-2{gap:5px;width:587px;height:316px;top:99px;left:46px;display:flex;flex-direction:column;align-items:flex-start;position:absolute}.frame .span-wrapper{position:relative;align-self:stretch}.frame .text-wrapper-3{font-size:20px}.frame .college-name-univer-15{position:absolute;width:221px;top:39px;left:46px;font-family:Poppins-Regular,Helvetica;font-weight:400;color:#2c844f;font-size:25px;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .p,.frame .text-wrapper-4{color:#666;font-size:20px;line-height:29.5px;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0}.frame .overlap-2{position:absolute;width:662px;height:600px;top:211px;left:673px}.frame .flexcontainer-3{gap:5px;width:506px;height:404px;top:99px;left:46px;display:flex;flex-direction:column;align-items:flex-start;position:absolute}.frame .p{position:relative;align-self:stretch}.frame .overlap-3{position:absolute;width:662px;height:600px;top:847px;left:673px}.frame .college-name-univer-16{top:39px;left:46px;color:#2c844f;font-size:25px;position:absolute;font-family:Poppins-Regular,Helvetica;font-weight:400;letter-spacing:0;line-height:18px;white-space:nowrap}.frame .arrow-wrapper{position:absolute;width:71px;height:71px;top:134px;left:571px;background-color:#ffc600;border-radius:35.5px;transform:rotate(90deg)}.frame .arrow{position:absolute;width:22px;height:28px;top:21px;left:25px;transform:rotate(-90deg)}.frame .rectangle-wrapper{position:absolute;width:8px;height:952px;top:89px;left:1387px;background-color:#ffffffb2;border-radius:50px}.frame .rectangle-11{position:relative;height:467px;top:62px;background-color:#76b790;border-radius:50px}
+.frame,
+.frame .div {
+  background-color: #fff;
+}
+.frame .college-name-univer,
+.frame .college-name-univer-2,
+.frame .college-name-univer-3,
+.frame .text-wrapper {
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.frame .div {
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    #ecf0ea 0,
+    rgb(214.17, 235.88, 212.29) 100%
+  );
+  width: 1440px;
+  height: 1080px;
+  position: relative;
+}
+.frame .overlap {
+  position: absolute;
+  width: 625px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+}
+.frame .rectangle {
+  position: absolute;
+  width: 275px;
+  height: 1080px;
+  top: 0;
+  left: 350px;
+  background: linear-gradient(
+    180deg,
+    rgb(169.32, 222.06, 190.42) 0,
+    rgb(118.71, 183.81, 144.75) 100%
+  );
+}
+.frame .img {
+  position: absolute;
+  width: 350px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+}
+.frame .rectangle-2 {
+  position: absolute;
+  width: 310px;
+  height: 63px;
+  top: 276px;
+  left: 40px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #fff 0, rgba(255, 255, 255, 0) 100%);
+  opacity: 0.3;
+}
+.frame .rectangle-3,
+.frame .rectangle-4 {
+  width: 237px;
+  height: 50px;
+  background-color: #fff8eb;
+  border-radius: 10px;
+  opacity: 0.4;
+}
+.frame .rectangle-3 {
+  position: absolute;
+  top: 350px;
+  left: 365px;
+}
+.frame .college-name-univer,
+.frame .college-name-univer-2,
+.frame .college-name-univer-3,
+.frame .college-name-univer-4,
+.frame .text-wrapper {
+  left: 60px;
+  color: #174b2c;
+  font-size: 25px;
+}
+.frame .college-name-univer {
+  top: 297px;
+  position: absolute;
+}
+.frame .text-wrapper {
+  top: 365px;
+  position: absolute;
+}
+.frame .college-name-univer-2 {
+  top: 433px;
+  position: absolute;
+}
+.frame .college-name-univer-3 {
+  top: 501px;
+  position: absolute;
+}
+.frame .college-name-univer-4 {
+  top: 569px;
+  position: absolute;
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.frame .college-name-univer-5,
+.frame .college-name-univer-6 {
+  left: 380px;
+  color: #174b2c;
+  font-size: 16px;
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+  position: absolute;
+}
+.frame .college-name-univer-5 {
+  top: 297px;
+}
+.frame .college-name-univer-6 {
+  top: 365px;
+}
+.frame .rectangle-4 {
+  position: absolute;
+  top: 960px;
+  left: 60px;
+}
+.frame .college-name-univer-7 {
+  top: 975px;
+  left: 144px;
+  color: #174b2c;
+  font-size: 16px;
+  position: absolute;
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.frame .college-name-univer-10,
+.frame .college-name-univer-11,
+.frame .college-name-univer-12,
+.frame .college-name-univer-8,
+.frame .college-name-univer-9 {
+  left: 380px;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  color: #174b2c;
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  white-space: nowrap;
+}
+.frame .college-name-univer-8 {
+  top: 433px;
+}
+.frame .college-name-univer-9 {
+  top: 501px;
+}
+.frame .college-name-univer-10 {
+  top: 569px;
+}
+.frame .college-name-univer-11 {
+  top: 637px;
+}
+.frame .college-name-univer-12 {
+  top: 705px;
+}
+.frame .college-name-univer-13 {
+  top: 229px;
+  left: 60px;
+  opacity: 0.5;
+  color: #174b2c;
+  font-size: 20px;
+  position: absolute;
+  font-family: Poppins-Regular, Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.frame .rectangle-5 {
+  position: absolute;
+  width: 1px;
+  height: 780px;
+  top: 230px;
+  left: 350px;
+  background-color: #cafadd;
+}
